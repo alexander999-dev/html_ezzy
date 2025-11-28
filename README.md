@@ -1,4 +1,4 @@
-﻿# Mi poyecto ejemplo <!-- # para colocar un titulo-->
+﻿                       git # Mi poyecto ejemplo <!-- # para colocar un titulo-->
 Este proyecto se genero para implementar una pagina con html y ccs y repositorio en github <!--descripcion corta del repositorio--
 
 ## contenido del repositorio <!--subtitulo del readme-->
